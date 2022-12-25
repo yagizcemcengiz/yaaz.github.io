@@ -12,6 +12,9 @@ body
     font-family: 'Open Sans', sans-serif;
 }
 
+@media screen and (max-width: 480px) {
+    
+
 #social
 {
     background-color: #064273;
@@ -487,4 +490,5 @@ a
 {
     color: white;
     text-decoration: none;
+}
 }
